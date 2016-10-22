@@ -1,0 +1,45 @@
+.square1{
+    position: absolute;
+    width: 20%;
+    height:0px ;
+    top: 20%;
+    left: 10%;
+    padding-bottom: 20%;
+    background-color: #CA8EFF;
+}
+.square2{
+    position: absolute;
+    width: 20%;
+    height:0px ;
+    top: 20%;
+    left: 30%;
+    padding-bottom: 20%;
+    background-color: #BE77FF;
+}
+.square3{
+    position: absolute;
+    width: 20%;
+    height:0px ;
+    top: 20%;
+    left: 50%;
+    padding-bottom: 20%;
+    background-color: #B15BFF;
+}
+.square4{
+    position: absolute;
+    width: 20%;
+    height:0px ;
+    top: 20%;
+    left: 70%;
+    padding-bottom: 20%;
+    background-color: 	#9F35FF;
+}
+.square5{
+    position: absolute;
+    width: 20%;
+    height:0px ;
+    top: 20%;
+    left: 90%;
+    padding-bottom: 20%;
+    background-color: #921AFF;
+}

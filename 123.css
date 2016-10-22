@@ -1,0 +1,31 @@
+@charset "UTF-8";
+#square{
+    /*color:black;
+    padding-left:30%;
+    padding-bottom:30%;*/
+    position: absolute;
+    width: 30%;
+    height: 0px;
+    left: 50%;
+    top: 50%;
+    background-color: black;
+    padding-bottom: 30%;
+    /*忽大忽小的正方形*/
+    margin: -15% 0% 0% -15%;
+    /*把對角線的交點條到中間*/
+    color: #fff;
+
+}
+.vertical_center{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    display: table;
+}
+.vertical_center p{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+}
